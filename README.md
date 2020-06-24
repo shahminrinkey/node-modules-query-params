@@ -21,6 +21,6 @@ https://example.com?foo1=bar1&foo2=bar2&foo3=bar3
 1) url [a url string] <br>
 2) params [javascript object] <br>
 
-and one option parameter: <br>
+and one optional parameter: <br>
 
 1) queryAlreadyExists [true if the url includes existing query parameters or note, default value is false] <p>
