@@ -1,5 +1,5 @@
 # node-modules-query-params
-Light weight Node.js module to add query parameters to URL.
+Lightweight Node.js module to add query parameters to URL.
 
 <h3>Installation:</h3>
 
